@@ -1,4 +1,4 @@
-# Hi there, I'm [Fasalu Rahman] 👋
+# Hi there, I'm Fasalu Rahman 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
@@ -7,10 +7,10 @@
 
 I'm a passionate MERN stack developer with a love for building full-stack applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I believe in the power of open source and contribute whenever I can.
 
-- 🌱 I’m currently learning **[specific technology or concept]**
+- 🌱 I’m currently learning **MERN STACK**
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **fasalurahman7515@gmail.com**
 
 ## 🔧 Technologies & Tools
 
@@ -43,4 +43,4 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From fa-salu(https://github.com/yourusername)
