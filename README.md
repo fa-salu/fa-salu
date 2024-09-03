@@ -32,7 +32,7 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 
 - **LinkedIn:** [Fasalu Rahman](https://www.linkedin.com/in/fa-salu/)
 - **Twitter:** [Fasalu Rahman](https://twitter.com/Fazal_Kl)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **Portfolio:** [Fasalu Rahman](https://personal-portfolio-three-wheat-71.vercel.app)
 
 ---
 
