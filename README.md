@@ -7,7 +7,7 @@
 
 I'm a passionate MERN stack developer with a love for building full-stack applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I believe in the power of open source and contribute whenever I can.
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m a **MERN STACK DEVELOPER**
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**
 - 👯 I'm looking for a job as a **MERN stack developer**.
 - 📫 How to reach me: **fasalurahman7515@gmail.com**
