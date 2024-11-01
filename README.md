@@ -33,10 +33,6 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical)](https://github.com/fa-salu)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fa-salu&show_icons=true&locale=en&layout=compact" alt="fa-salu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&locale=en" alt="fa-salu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fa-salu&" alt="fa-salu" /></p>
 
 ## 📫 Let's Connect
