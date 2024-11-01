@@ -12,7 +12,7 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 - 👯 I'm looking for a job as a **MERN stack developer**.
 - 📫 How to reach me: **fasalurahman7515@gmail.com**
 
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a> </p>
 
 ## 🔧 Technologies & Tools
 
@@ -33,7 +33,7 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical)](https://github.com/fa-salu)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fa-salu&" alt="fa-salu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=fa-salu&theme=radical" alt="fa-salu" /></p>
 
 ## 📫 Let's Connect
 
