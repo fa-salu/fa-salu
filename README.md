@@ -12,6 +12,8 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 - 👯 I'm looking for a job as a **MERN stack developer**.
 - 📫 How to reach me: **fasalurahman7515@gmail.com**
 
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a> </p>
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,6 +32,12 @@ I'm a passionate MERN stack developer with a love for building full-stack applic
 [![Fasalu Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&theme=radical)](https://github.com/fa-salu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical)](https://github.com/fa-salu)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fa-salu&show_icons=true&locale=en&layout=compact" alt="fa-salu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&locale=en" alt="fa-salu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fa-salu&" alt="fa-salu" /></p>
 
 ## 📫 Let's Connect
 
