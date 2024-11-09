@@ -1,6 +1,6 @@
 # Hi there, I'm Fasalu Rahman 👋
 
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_12063795.jpg" alt="Web Developers Image" style="width: 100%; height: auto;" />
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.213238987.1727286128&semt=ais_hybrid" style="width: 100%; height: auto;" />
 
 ![GitHub followers](https://img.shields.io/github/followers/fa-salu?label=Follow&style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Fazal_Kl?style=social)
