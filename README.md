@@ -1,16 +1,43 @@
 # Hi there, I'm Fasalu Rahman 👋
+Full Stack Developer | MERN Specialist | UI/UX Enthusiast
 
 ![GitHub followers](https://img.shields.io/github/followers/fa-salu?label=Follow&style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Fazal_Kl?style=social)
 
 ## 🚀 About Me
+I'm a passionate MERN stack developer with expertise in building scalable web applications. I specialize in transforming complex requirements into elegant, user-centric solutions that combine clean code with intuitive design.
+🛠️ Tech Stack
 
-I’m a passionate MERN stack developer with a love for building full-stack applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My focus is on creating seamless user experiences through thoughtful and innovative design solutions. I believe in the power of creativity and strive to bring every project to life with a unique touch.
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js, RESTful APIs
+Database: MongoDB
+Tools: Git, Redux, Axios, Figma
 
-- 🌱 I’m a **MERN STACK DEVELOPER**
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js**
-- 👯 I'm looking for a job as a **MERN stack developer**.
-- 📫 How to reach me: **fasalurahman7515@gmail.com**
+🚀 What I Do
+
+Build full-stack web applications with modern technologies
+Create responsive and intuitive user interfaces
+Develop scalable backend solutions
+Design efficient database architectures
+
+🎯 Current Focus
+
+Exploring advanced React patterns and performance optimization
+Deepening expertise in TypeScript and Next.js
+Building real-time collaborative applications
+Open to new opportunities as a MERN Stack Developer
+
+📈 Recent Projects
+
+🛍️ E-commerce Platform: Full-stack baby shop with Razorpay integration
+📝 Task Management System: Real-time collaborative workspace platform
+📚 Medium Clone: Feature-rich blogging platform with NextAuth
+
+📫 Let's Connect
+
+📧 Email: fasalurahman7515@gmail.com
+💼 LinkedIn: Fasalu Rahman M
+🌐 Portfolio: View My Work
 
 
 ## 📈 GitHub Stats
