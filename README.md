@@ -8,10 +8,10 @@ Full Stack Developer | MERN Specialist | UI/UX Enthusiast
 I'm a passionate MERN stack developer with expertise in building scalable web applications. I specialize in transforming complex requirements into elegant, user-centric solutions that combine clean code with intuitive design.
 🛠️ Tech Stack
 
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+Frontend: React.js, Next.js,React Native, TypeScript, Redux, Tailwind CSS
 Backend: Node.js, Express.js, RESTful APIs
-Database: MongoDB
-Tools: Git, Redux, Axios, Figma
+Database: MongoDB, Mysql, Postgres, SQLite
+Tools: Linux, Git, Figma
 
 🚀 What I Do
 
