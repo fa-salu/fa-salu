@@ -37,7 +37,7 @@ Open to new opportunities as a MERN Stack Developer
 
 📧 Email: fasalurahman7515@gmail.com
 💼 LinkedIn: https://www.linkdedin.com/in/fa-salu
-🌐 Portfolio: http://fasalu.vecel.app
+🌐 Portfolio: [http://fasalu.vecel.app](https://fasalu.vercel.app/)
 
 
 ## 📈 GitHub Stats
