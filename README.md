@@ -247,7 +247,8 @@ If you like my work and want to support me, consider:
 
 **Thanks for visiting my profile! Have a great day! 🚀**
 
-![Snake animation](https://github.com/fa-salu/github-snake-animation/blob/main/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/fa-salu/fa-salu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ---
 
