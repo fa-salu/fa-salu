@@ -20,15 +20,6 @@
 
 I'm a passionate **Full Stack Developer** specializing in the **MERN stack**, transforming complex requirements into elegant, scalable solutions. With a keen eye for **UI/UX design** and a commitment to clean code, I build applications that users love.
 
-```javascript
-const fasalu = {
-    location: "Kerala, India",
-    currentFocus: ["System Design", "Microservices", "Real-time Applications"],
-    lookingFor: "MERN Stack Developer Opportunities",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
-
 - 🔭 Currently working on **Enterprise ERP & CRM Solutions**
 - 🌱 Exploring **Advanced React Patterns**, **TypeScript**, and **System Architecture**
 - 👯 Open to collaborate on **Open Source Projects**
@@ -55,8 +46,6 @@ const fasalu = {
 - 📦 Inventory management
 - 📈 Sales & purchase workflows
 
-[View Project →](https://github.com/fa-salu)
-
 </td>
 <td width="50%">
 
@@ -71,8 +60,6 @@ const fasalu = {
 - 📞 Call logging & history
 - 📊 Sales pipeline visualization
 - 🔔 Real-time notifications
-
-[View Project →](https://github.com/fa-salu)
 
 </td>
 </tr>
@@ -91,8 +78,6 @@ const fasalu = {
 - 👤 User authentication
 - 🔍 Advanced product filtering
 
-[View Project →](https://github.com/fa-salu)
-
 </td>
 <td width="50%">
 
@@ -107,8 +92,6 @@ const fasalu = {
 - 👥 Team management
 - 🔔 Push notifications
 - 📊 Progress tracking
-
-[View Project →](https://github.com/fa-salu)
 
 </td>
 </tr>
@@ -138,14 +121,12 @@ const fasalu = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Database & Cache
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -157,7 +138,6 @@ const fasalu = {
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -174,18 +154,17 @@ const fasalu = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&theme=radical" alt="Fasalu Rahman's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fa-salu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fa-salu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fa-salu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<div align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a>
 </div>
 
 ---
@@ -231,36 +210,6 @@ graph LR
 
 ---
 
-## 🌟 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/fa-salu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-salu&repo=your-repo-name&theme=tokyonight&hide_border=true" alt="Repo 1"/>
-  </a>
-  <a href="https://github.com/fa-salu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-salu&repo=your-repo-name&theme=tokyonight&hide_border=true" alt="Repo 2"/>
-  </a>
-</div>
-
----
-
-## 🎓 Certifications & Learning
-
-- 📜 Full Stack Web Development
-- 📜 MongoDB Database Administration
-- 📜 Advanced React & Redux
-- 📜 Node.js Backend Development
-- 📜 UI/UX Design Fundamentals
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -296,7 +245,7 @@ If you like my work and want to support me, consider:
 
 **Thanks for visiting my profile! Have a great day! 🚀**
 
-![Snake animation](https://raw.githubusercontent.com/fa-salu/fa-salu/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fa-salu/fa-salu/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
