@@ -154,18 +154,20 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack**, tr
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&theme=radical" alt="Fasalu Rahman's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fa-salu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+<p align="left">
+  <a href="https://github.com/fa-salu">
+    <img src="https://github-readme-stats.vercel.app/api?username=fa-salu&show_icons=true&theme=radical" alt="Fasalu Rahman's GitHub stats" />
+  </a>
+  <a href="https://github.com/fa-salu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa-salu&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a>
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fa-salu" alt="fa-salu" /></a> </p>
 
 ---
 
@@ -245,7 +247,7 @@ If you like my work and want to support me, consider:
 
 **Thanks for visiting my profile! Have a great day! 🚀**
 
-![Snake animation](https://github.com/fa-salu/fa-salu/blob/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/fa-salu/github-snake-animation/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
